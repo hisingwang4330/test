@@ -21,6 +21,10 @@ static NSString *const logdata = @"test git";
 
     NSLog(@"%@", logdata);
 
+    
+    UILabel *label = [[UILabel alloc] init];
+    [self.view addSubview:label];
+    
 }
 
 
