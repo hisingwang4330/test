@@ -1,4 +1,4 @@
-![我的头像](http://www.5442.com/showpic.html?http://pic2016.ytqmx.com:82/2016/1226/29/1.jpg)
+![我的头像](https://b-ssl.duitang.com/uploads/item/201505/17/20150517193658_PRFXr.thumb.700_0.png)
 # 我是个王者
 * 然而并没有卵用
 
